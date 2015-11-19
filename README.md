@@ -11,4 +11,6 @@ Building a basic todo list as a SPA with ReactJS and a Firebase backend.
 - Firebase
 
 ## WireFrames
-Landing Page: ![](./assets/landing.png)
+#### Landing Page: ![](./assets/landing.png)
+
+#### Todo Detail: ![](./assets/todo-detail.png)
